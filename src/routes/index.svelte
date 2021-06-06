@@ -37,10 +37,10 @@
 </style>
 
 <svelte:head>
-	<title>Sapper project template </title>
+	<title>Sapper project DevOps template </title>
 </svelte:head>
 
-<h1>Great success!</h1>
+<h1>Great success!!!</h1>
 <p>Great success!</p>
 
 <figure>
