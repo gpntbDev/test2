@@ -40,7 +40,7 @@
 	<title>Sapper DevOps project </title>
 </svelte:head>
 
-<h1>Great success!</h1>
+<h1>Deploy success!</h1>
 <p>Great success!</p>
 
 <figure>
